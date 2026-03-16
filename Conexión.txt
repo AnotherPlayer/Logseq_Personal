@@ -1,1 +1,0 @@
-#Prueba de comando para cargar repositorio de Logseq
